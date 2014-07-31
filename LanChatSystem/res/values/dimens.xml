@@ -1,0 +1,14 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="user_child_text_size">14sp</dimen>
+    <dimen name="user_group_text_size">20sp</dimen>
+	<dimen name="input_edit_height">50dip</dimen><!-- 编辑框高度 -->
+	<dimen name="input_edit_padding">5dip</dimen><!-- 编辑框字体内容间隔 -->
+	<dimen name="input_font_size">15sp</dimen><!-- 输入框字体大小 -->
+	
+	    <dimen name="file_list_folder_img_width">55dip</dimen><!-- 文件夹图片宽度 -->
+    <dimen name="file_list_folder_img_height">40dip</dimen><!-- 文件夹图片高度 -->
+</resources>

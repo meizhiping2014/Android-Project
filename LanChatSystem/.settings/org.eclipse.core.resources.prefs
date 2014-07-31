@@ -1,0 +1,16 @@
+eclipse.preferences.version=1
+encoding//src/com/mzp/chat/activity/BaseActivity.java=UTF-8
+encoding//src/com/mzp/chat/activity/ChatActivity.java=UTF-8
+encoding//src/com/mzp/chat/activity/MainActivity.java=UTF-8
+encoding//src/com/mzp/chat/adapter/ChatListAdapter.java=UTF-8
+encoding//src/com/mzp/chat/adapter/UserExpandListAdapter.java=UTF-8
+encoding//src/com/mzp/chat/bean/ChatMessage.java=UTF-8
+encoding//src/com/mzp/chat/bean/FileInfo.java=UTF-8
+encoding//src/com/mzp/chat/bean/UserInfo.java=UTF-8
+encoding//src/com/mzp/chat/global/ChatApplication.java=UTF-8
+encoding//src/com/mzp/chat/global/IpMessageConst.java=UTF-8
+encoding//src/com/mzp/chat/handle/ChatThreadHandle.java=UTF-8
+encoding//src/com/mzp/chat/impl/ReceiveMsgListener.java=UTF-8
+encoding//src/com/mzp/chat/util/IpMessageProtocol.java=UTF-8
+encoding//src/com/mzp/chat/util/ToolUtils.java=UTF-8
+encoding//src/com/mzp/chat/widget/PullToRefreshExpandableListView.java=UTF-8
